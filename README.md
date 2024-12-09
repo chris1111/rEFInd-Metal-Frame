@@ -5,7 +5,7 @@
 - ### 94 Distro Icons
 
 View ➤ [Ison Set](https://github.com/chris1111/rEFInd-Metal-Frame/blob/main/View-Set.md)
-View ➤ [All Icons](https://github.com/chris1111/rEFInd-Metal-Frame/tree/main/rEFInd-Shadow-IOS)
+View ➤ [All Icons](https://github.com/chris1111/rEFInd-Metal-Frame/tree/main/rEFInd-Metal-Frame)
 
 Configuration ➤ [Refind config](https://github.com/chris1111/rEFInd-Metal-Frame/blob/main/rEFInd-Metal-Frame.conf)
 
