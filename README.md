@@ -16,4 +16,10 @@ View Site ➤ [rEFInd-Metal-Frame](https://chris1111.github.io/rEFInd-Metal-Fram
 ### Screenshot
 <img src="Screenshot/screenshot_000.png" alt="Github Project" style="width:100%;">
 
- 
+My Other theme ⬇︎
+
+[Shadow-rEFInd](https://github.com/chris1111/Shadow-rEFInd)
+
+[Icon-Set-DarkGrey-Refind](https://github.com/chris1111/Icon-Set-DarkGrey-Refind)
+
+[rEFInd-Shadow-IOS](https://github.com/chris1111/rEFInd-Shadow-IOS)
