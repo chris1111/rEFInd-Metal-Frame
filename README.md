@@ -23,3 +23,5 @@ My Other theme ⬇︎
 [Icon-Set-DarkGrey-Refind](https://github.com/chris1111/Icon-Set-DarkGrey-Refind)
 
 [rEFInd-Shadow-IOS](https://github.com/chris1111/rEFInd-Shadow-IOS)
+
+Icon base on [distro icons](https://www.dropbox.com/s/uhl8sz1gwse2zd6/distro_icons.zip?dl=0)
