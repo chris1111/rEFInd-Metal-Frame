@@ -7,7 +7,7 @@
 View ➤ [Ison Set](https://github.com/chris1111/rEFInd-Metal-Frame/blob/main/View-Set.md)
 View ➤ [All Icons](https://github.com/chris1111/rEFInd-Metal-Frame/tree/main/rEFInd-Metal-Frame)
 
-Configuration ➤ [Refind config](https://github.com/chris1111/rEFInd-Metal-Frame/blob/main/rEFInd-Metal-Frame.conf)
+Configuration ➤ [Refind config](https://github.com/chris1111/rEFInd-Metal-Frame/blob/main/theme.conf)
 
 Download Icons Set ➤ [rEFInd-Metal-Frame.zip](https://github.com/chris1111/rEFInd-Metal-Frame/raw/refs/heads/main/rEFInd-Metal-Frame.zip)
 
