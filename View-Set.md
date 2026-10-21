@@ -98,4 +98,4 @@
 <img src="rEFInd-Metal-Frame/icons/banner.png" alt="Github Project" style="width:80%;">
 <img src="rEFInd-Metal-Frame/icons/banner-plus.png" alt="Github Project" style="width:80%;">
 
-[Back On ➦ Top](https://github.com/chris1111/rEFInd-Metal-Frame/icons/blob/main/View-Set.md#view-set)
+[Back On ➦ Top](https://github.com/chris1111/rEFInd-Metal-Frame/blob/main/View-Set.md#view-set-refind-metal-frameicons)
